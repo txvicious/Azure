@@ -11,6 +11,7 @@ DataFactory (Alphanumerics and hyphens only)
 
 ### Azure Resources that don't allow for spaces or dashes
 Storage accounts
+
 Example: prodstorage001
 
 ### Azure Resources that don't allow capitals
